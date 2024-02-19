@@ -7,7 +7,7 @@ and skills to manage time. As a self-learner, I always seek opportunities to exp
 Outside of work, I enjoy moments of introspection accompanied by a good cup of coffee ☕, mate 🧉, as well as climbing 🧗🏼 and cycling 🚴🏼‍♂️ and of course I love pizza 🍕.
 
 >_ Find me at:
-Linkedin_Follow
+[Linkedin_Follow](https://www.linkedin.com/in/juan-santiago-bosch-genis/)
 
 >_ Skills:
  
