@@ -11,7 +11,7 @@ Outside of work, I enjoy moments of introspection accompanied by a good cup of c
 
 >_ Skills:
  
-JavaScript JQuerry 
+JavaScript Follow JQuerry 
 Html5 css3
 Bootstrap Sass
 ReactJs Node.js
